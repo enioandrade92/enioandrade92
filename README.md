@@ -1,14 +1,14 @@
 <h2> Bem vindo 👋, eu me chamo Enio Andrade. </h2>
 
 - 🔭 Sou estudante fullstack na Trybe
-- 🌱 Aprendendo mais sobre Node.js, TypeScript, MySql e MongoDB.
+- 🌱 Aprendendo mais sobre Node.js, Nest.js, TypeScript, PostgreSQL.
 
 
 <div>
    <h3 dir="auto">Sobre:</h3>
    <p>
       Sou apaixonado por tecnologia e me considero uma pessoa comunicativa.
-      Hoje com o foco em desenvolvimento Web, possuo conhecimentos em front-end e back-end.
+      Hoje com o foco em desenvolvimento Web, possuo conhecimentos em back-end e front-end.
       Gosto de trabalhar com desafios, soluções lógicas e pessoas.
       Sou aberto a mudanças no trabalho, seja essas mudanças relacionadas ao desenvolvimento web ou social.
    </p>
