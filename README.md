@@ -19,7 +19,6 @@
    <h3 dir="auto">Languages</h3>
    <img src="https://camo.githubusercontent.com/b4385df332a8388555b70eaa0281f547690043483bb511483394dc227f4d63ad/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3333333333333f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074" alt="JavaScript" data-canonical-src="https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&amp;logo=javascript" style="max-width: 100%;">
   <img src="https://camo.githubusercontent.com/e0c30bb85b7b49e1807113ef6c7cf52683c1d0fa30001c801d82381e2e3743ce/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d547970655363726970742d3333333333333f7374796c653d666f722d7468652d6261646765266c6f676f3d74797065736372697074" alt="TypeScript" data-canonical-src="https://img.shields.io/badge/-TypeScript-333333?style=for-the-badge&amp;logo=typescript" style="max-width: 100%;">
-     <img src="https://camo.githubusercontent.com/e0c30bb85b7b49e1807113ef6c7cf52683c1d0fa30001c801d82381e2e3743ce/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d547970655363726970742d3333333333333f7374796c653d666f722d7468652d6261646765266c6f676f3d74797065736372697074" alt="Postgres" data-canonical-src="https://img.shields.io/badge/-Postgres-333333?style=for-the-badge&amp;logo=Postgres" style="max-width: 100%;">
 </div>
 
 <div>
