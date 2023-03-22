@@ -42,8 +42,8 @@
 
 <div>
   <h3 dir="auto">Database:</h3>
+  <img src="https://camo.githubusercontent.com/3bbaa8b86aa2f354b310a13a7b569f7164f75177ffaba13192d8424ab417656e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d7953514c2d3333333333333f7374796c653d666f722d7468652d6261646765266c6f676f3d6d7973716c" alt="PostgreSQL" data-canonical-src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" style="max-width: 100%;">
   <img src="https://camo.githubusercontent.com/3bbaa8b86aa2f354b310a13a7b569f7164f75177ffaba13192d8424ab417656e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d7953514c2d3333333333333f7374796c653d666f722d7468652d6261646765266c6f676f3d6d7973716c" alt="MySQL" data-canonical-src="https://img.shields.io/badge/-MySQL-333333?style=for-the-badge&amp;logo=mysql" style="max-width: 100%;">
-  <img src="https://camo.githubusercontent.com/3bbaa8b86aa2f354b310a13a7b569f7164f75177ffaba13192d8424ab417656e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d7953514c2d3333333333333f7374796c653d666f722d7468652d6261646765266c6f676f3d6d7973716c" alt="MySQL" data-canonical-src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" style="max-width: 100%;">
   <img src="https://camo.githubusercontent.com/92009c215e9878e49f196191bb58e9206e30d665c8a49843ea111524ad334d4a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d6f6e676f44422d3333333333333f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6f6e676f6462" alt="MongoDB" data-canonical-src="https://img.shields.io/badge/-MongoDB-333333?style=for-the-badge&amp;logo=mongodb" style="max-width: 100%;">
 </div>
 
