@@ -67,6 +67,4 @@
 <div>
   <a href="http://www.linkedin.com/in/enioandrade" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:enioandrade92@hotmail.com"><img src="https://img.shields.io/badge/-HotEmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/enioandrade92" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 
 </div>
