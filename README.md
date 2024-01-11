@@ -26,8 +26,7 @@
   <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--Rl0DwDaF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/Express.js-404D59%3Fstyle%3Dfor-the-badge"        alt="express"; style="max-width: 100%;">
   <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--VlZmeiZf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/Sequelize-52B0E7%3Fstyle%3Dfor-the-badge%26logo%3DSequelize%26logoColor%3Dwhite" alt="Sequelize" style="max-width: 100%;">
   <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--6C98uIG2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/Prisma-3982CE%3Fstyle%3Dfor-the-badge%26logo%3DPrisma%26logoColor%3Dwhite" alt="Prisma" data-canonical-src="https://img.shields.io/badge/-Prisma-333333?style=for-the-badge&amp;logo=prisma" style="max-width: 100%;">
-  <img src="" style="max-width: 100%;">
-  <img src="";logo=chai" style="max-width: 100%;">
+  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--sDtFcwqD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/Jest-323330%3Fstyle%3Dfor-the-badge%26logo%3DJest%26logoColor%3Dwhite" style="max-width: 100%;">
 </div>
 
 <div>
