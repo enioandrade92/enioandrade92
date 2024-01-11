@@ -17,17 +17,17 @@
 <div>
    <h3 dir="auto">Languages</h3>
    <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--yXd1I4K0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/Javascript-323330%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3DF7DF1E";logo=javascript" style="max-width: 100%;">
-  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--ZLN5gijI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/TypeScript-007ACC%3Fstyle%3Dfor-the-badge%26logo%3Dtypescript%26logoColor%3Dwhite" alt="TypeScript";logo=typescript" style="max-width: 100%;">
+  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--ZLN5gijI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/TypeScript-007ACC%3Fstyle%3Dfor-the-badge%26logo%3Dtypescript%26logoColor%3Dwhite" alt="TypeScript"; style="max-width: 100%;">
 </div>
 
 <div>
   <h3 dir="auto">Back-end:</h3>
-  <img src="https://camo.githubusercontent.com/3fbf3ff3985bb15685928d64cb9ac6b11fd664495502834195389fcae7a93a49/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64654a532d3333333333333f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f64652e6a73" alt="NodeJS" data-canonical-src="https://img.shields.io/badge/-NodeJS-333333?style=for-the-badge&amp;logo=node.js" style="max-width: 100%;">
-  <img src="https://camo.githubusercontent.com/deaa730d8cd71be034da6fa248f15ec351d98440dd9d1ffced7bfa6c814425e8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d457870726573732d3333333333333f7374796c653d666f722d7468652d6261646765266c6f676f3d65787072657373" alt="Express" data-canonical-src="https://img.shields.io/badge/-Express-333333?style=for-the-badge&amp;logo=express" style="max-width: 100%;">
-  <img src="https://camo.githubusercontent.com/85d75ade2ebdf5674469e8984472ddaffc9ea7426844ae5f4b08a808ea6314a6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d53657175656c697a652d3333333333333f7374796c653d666f722d7468652d6261646765266c6f676f3d73657175656c697a65" alt="Sequelize" data-canonical-src="https://img.shields.io/badge/-Sequelize-333333?style=for-the-badge&amp;logo=sequelize" style="max-width: 100%;">
-  <img src="https://camo.githubusercontent.com/8d2dde4444772e9fdfc490eb24af1d9612c0afa899efd10d591a4467b42fd207/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507269736d612d3333333333333f7374796c653d666f722d7468652d6261646765266c6f676f3d707269736d61" alt="Prisma" data-canonical-src="https://img.shields.io/badge/-Prisma-333333?style=for-the-badge&amp;logo=prisma" style="max-width: 100%;">
-  <img src="https://camo.githubusercontent.com/d65e560a6c3d86308ea5a019868885c0b08294defd20d2998fcacbd443ab94cc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d6f6368612d3333333333333f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6f636861" alt="Mocha" data-canonical-src="https://img.shields.io/badge/-Mocha-333333?style=for-the-badge&amp;logo=mocha" style="max-width: 100%;">
-  <img src="https://camo.githubusercontent.com/ef90a37fa429644f07a34edc04d7509a78fc16f9cc3deff15585d4f435ed5c4d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d436861692d3333333333333f7374796c653d666f722d7468652d6261646765266c6f676f3d63686169" alt="Chai" data-canonical-src="https://img.shields.io/badge/-Chai-333333?style=for-the-badge&amp;logo=chai" style="max-width: 100%;">
+  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s---tuyDVl_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/Node.js-43853D%3Fstyle%3Dfor-the-badge%26logo%3Dnode.js%26logoColor%3Dwhite";logo=node.js" style="max-width: 100%;">
+  <img src="";logo=express" style="max-width: 100%;">
+  <img src="" style="max-width: 100%;">
+  <img src="" alt="Prisma" data-canonical-src="https://img.shields.io/badge/-Prisma-333333?style=for-the-badge&amp;logo=prisma" style="max-width: 100%;">
+  <img src="" style="max-width: 100%;">
+  <img src="";logo=chai" style="max-width: 100%;">
 </div>
 
 <div>
