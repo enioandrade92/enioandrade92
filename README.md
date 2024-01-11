@@ -1,8 +1,7 @@
 <h2> Bem vindo 👋, eu me chamo Enio Andrade. </h2>
 
 - :technologist: Desenvolver back-end na RadarFit (Node.js, Nest.js, TypeScript, PostgreSQL, AWS)
-- 🔭 Estudante fullstack na Trybe
-- 🌱 Aprendendo mais sobre Python.
+- 🌱 Aprendendo mais sobre Go.
 
 
 <div>
