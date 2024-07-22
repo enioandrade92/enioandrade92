@@ -1,6 +1,6 @@
 <h2> Bem vindo 👋, eu me chamo Enio Andrade. </h2>
 
-- :technologist: Desenvolver back-end na Seidor Brazil (Node.js, Nest.js, TypeScript, PostgreSQL, Mongo, AWS)
+- :technologist: Desenvolver back-end na Avantsoft (Node.js, Nest.js, TypeScript, PostgreSQL, Mongo, AWS)
 - 🌱 Aprendendo mais sobre Go.
 
 
