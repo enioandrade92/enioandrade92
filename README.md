@@ -1,6 +1,6 @@
 <h2> Bem vindo 👋, eu me chamo Enio Andrade. </h2>
 
-- :technologist: Desenvolver back-end na Avantsoft (Node.js, Nest.js, TypeScript, PostgreSQL, Mongo, AWS)
+- :technologist: Desenvolver back-end na Avantsoft (Node.js, Python, Nest.js, TypeScript, PostgreSQL, Mongo, AWS)
 - 🌱 Aprendendo mais sobre Go.
 
 
@@ -17,7 +17,8 @@
 <div>
    <h3 dir="auto">Languages</h3>
    <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--yXd1I4K0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/Javascript-323330%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3DF7DF1E";logo=javascript" style="max-width: 100%;">
-  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--ZLN5gijI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/TypeScript-007ACC%3Fstyle%3Dfor-the-badge%26logo%3Dtypescript%26logoColor%3Dwhite" alt="TypeScript"; style="max-width: 100%;">
+   <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--ZLN5gijI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/TypeScript-007ACC%3Fstyle%3Dfor-the-badge%26logo%3Dtypescript%26logoColor%3Dwhite" alt="TypeScript"; style="max-width: 100%;">
+   <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--ZLN5gijI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/Python-007ACC%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" alt="Python"; style="max-width: 100%;">
 </div>
 
 <div>
