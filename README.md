@@ -1,16 +1,34 @@
 <h2> Bem vindo 👋, eu me chamo Enio Andrade. </h2>
 
-- :technologist: Desenvolver back-end na Avantsoft (Node.js, Python, Nest.js, TypeScript, PostgreSQL, Mongo, AWS)
+- :technologist: Desenvolver back-end (Node.js, Python, Nest.js, TypeScript, PostgreSQL, Mongo, AWS)
 - 🌱 Aprendendo mais sobre Go.
 
 
 <div>
    <h3 dir="auto">Sobre:</h3>
    <p>
-      Sou apaixonado por tecnologia e me considero uma pessoa comunicativa.
-      Hoje com o foco em desenvolvimento Web, possuo conhecimentos em back-end.
+      Desenvolvedor back-end apaixonado por tecnologia. Sou proativo, organizado e me considero
+      uma pessoa comunicativa.
       Gosto de trabalhar com desafios, soluções lógicas e pessoas.
-      Sou aberto a mudanças no trabalho, seja essas mudanças relacionadas ao desenvolvimento web ou social.
+      Sou aberto a mudanças no trabalho, seja essas mudanças relacionadas a desenvolvimento de um projeto ou social.
+   </p>
+</div>
+
+<div>
+   <h3 dir="auto">Minha trajetória como desenvolvedor::</h3>
+   <p>
+      Minha primeira experiência foi em um momento crítico na empresa RadarFit, quando dois
+      colaboradores do setor de back-end se desligaram, fui escolhido para assumir a responsabilidade
+      do cargo em um cenário de rápida transição. Ao longo de seis meses, trabalhei de forma solitária,
+      uma experiência que se mostrou desafiadora e enriquecedora. Durante esse período, além de
+      aprender a tecnologia Nest, entreguei resultados consistentes e de alta qualidade.
+      Uma das realizações que destaco com orgulho é a minha participação na criação de uma
+      aplicação do zero, destinada a auxiliar as empresas na semana do SIPAT. Nesse projeto, ajudei a
+      equipe no desenvolvimento de um jogo, que não apenas educa, mas também envolve os
+      colaboradores de forma interativa.
+      Na Seidor, eu mantinha e desenvolvia melhorias para serviços de integração de emissão de notas
+      fiscais, cada município tem o seu padrão de implementação.
+      Hoje trabalho na Avantsoft, estou implementando uma nova aplicação para concessionárias.
    </p>
 </div>
 
