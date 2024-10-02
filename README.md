@@ -15,7 +15,7 @@
 </div>
 
 <div>
-   <h3 dir="auto">Minha trajetória como desenvolvedor::</h3>
+   <h3 dir="auto">Minha trajetória como desenvolvedor:</h3>
    <p>
       Minha primeira experiência foi em um momento crítico na empresa RadarFit, quando dois
       colaboradores do setor de back-end se desligaram, fui escolhido para assumir a responsabilidade
