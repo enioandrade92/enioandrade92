@@ -28,7 +28,8 @@
       colaboradores de forma interativa.
       Na Seidor, eu mantinha e desenvolvia melhorias para serviços de integração de emissão de notas
       fiscais, cada município tem o seu padrão de implementação.
-      Hoje trabalho na Avantsoft, estou implementando uma nova aplicação para concessionárias.
+      Na Avantsoft, ajudei na implementação de uma nova aplicação para anúncios de veículos com integração com Instagram e Facebook, além de implementar um serviço para importação de PSD (formato de arquivo Photoshop), utilizei o Python para esse desenvolvimento.
+      Hoje, estou trabalhando com automações do Jira no Banco Inter.
    </p>
 </div>
 
