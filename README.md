@@ -146,6 +146,10 @@
             <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="docker" />
             <br>Docker
         </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="postman" />
+            <br>Postman
+        </td>
      </tr>  
 </table>
 
