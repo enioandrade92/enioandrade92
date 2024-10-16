@@ -33,37 +33,121 @@
    </p>
 </div>
 
-<div>
-   <h3 dir="auto">Languages</h3>
-   <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--yXd1I4K0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/Javascript-323330%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3DF7DF1E";logo=javascript" style="max-width: 100%;">
-   <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--ZLN5gijI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/TypeScript-007ACC%3Fstyle%3Dfor-the-badge%26logo%3Dtypescript%26logoColor%3Dwhite" alt="TypeScript"; style="max-width: 100%;">
-   <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--ZLN5gijI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/Python-323330%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3DF7DF1E" alt="Python"; style="max-width: 100%;">
-</div>
+## Languages: ##
+<table align="center">
+     <tr>
+        <td align="center" width="96">
+            <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+            <br>TypeScript
+        </td>
+        <td align="center" width="96">
+            <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+            <br>JavaScript
+        </td>
+        <td align="center" width="96">
+            <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+            <br>Python
+        </td>
+     </tr>  
+</table>
 
-<div>
-  <h3 dir="auto">Back-end:</h3>
-  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s---tuyDVl_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/Node.js-43853D%3Fstyle%3Dfor-the-badge%26logo%3Dnode.js%26logoColor%3Dwhite" alt="Node.js"; style="max-width: 100%;">
-  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--Rl0DwDaF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/Express.js-404D59%3Fstyle%3Dfor-the-badge"        alt="express"; style="max-width: 100%;">
-  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--Rl0DwDaF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/Nest.js-ec5353%3Fstyle%3Dfor-the-badge"        alt="nestjs"; style="max-width: 100%;">
-  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--VlZmeiZf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/TypeORM-52B0E7%3Fstyle%3Dfor-the-badge" alt="typeorm" style="max-width: 100%;">
-  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--VlZmeiZf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/Sequelize-52B0E7%3Fstyle%3Dfor-the-badge%26logo%3DSequelize%26logoColor%3Dwhite" alt="Sequelize" style="max-width: 100%;">
-  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--6C98uIG2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/Prisma-3982CE%3Fstyle%3Dfor-the-badge%26logo%3DPrisma%26logoColor%3Dwhite" alt="Prisma" data-canonical-src="https://img.shields.io/badge/-Prisma-333333?style=for-the-badge&amp;logo=prisma" style="max-width: 100%;">
-  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--sDtFcwqD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/Jest-323330%3Fstyle%3Dfor-the-badge%26logo%3DJest%26logoColor%3Dwhite" style="max-width: 100%;">
-</div>
+## Backend: ##
+<table align="center">
+   <tr>
+      <td align="center" width="96">
+         <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
+         <br>Nodejs
+      </td>
+      <td align="center" width="96">
+         <img src="https://skillicons.dev/icons?i=nestjs" width="48" height="48" alt="Nest" />
+         <br>Nest
+      </td>
+      <td align="center" width="96">
+         <img src="https://skillicons.dev/icons?i=prisma" width="48" height="48" alt="prisma" />
+         <br>Prisma
+      </td>
+      <td align="center" width="96">
+         <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="48" height="48" alt="Rest" />
+         <br>REST
+      </td>
+   </tr>
+</table>
 
-<div>
-  <h3 dir="auto">Database:</h3>
-  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--LF_tT4cg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/PostgreSQL-316192%3Fstyle%3Dfor-the-badge%26logo%3Dpostgresql%26logoColor%3Dwhite" alt="PostgreSQL" style="max-width: 100%;">
-  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--OvXzauo0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/MySQL-00000F%3Fstyle%3Dfor-the-badge%26logo%3Dmysql%26logoColor%3Dwhite" alt="MySQL" style="max-width: 100%;">
-  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--m4KqDleG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/MongoDB-4EA94B%3Fstyle%3Dfor-the-badge%26logo%3Dmongodb%26logoColor%3Dwhite" alt="MongoDB" style="max-width: 100%;">
-   <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--7sSBcOK2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/SQLite-07405E%3Fstyle%3Dfor-the-badge%26logo%3Dsqlite%26logoColor%3Dwhite" alt="Sqlite" style="max-width: 100%;">
-</div>
+## Database: ##
+<table align="center">
+     <tr>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+            <br>PostgreSQL
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+            <br>MongoDB
+        </td>
+        <td align="center" width="96">
+            <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+            <br>MySQL
+        </td>
+     </tr>  
+</table>
 
-<div>
-  <h3 dir="auto">Cloud:</h3>
-  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--JJmfAMOd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/Microsoft_Azure-0089D6%3Fstyle%3Dfor-the-badge%26logo%3Dmicrosoft-azure%26logoColor%3Dwhite" style="max-width: 100%;">
-  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--R3XgKh7v--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/Amazon%2520AWS-FF9900%3Fstyle%3Dfor-the-badge%26logo%3Damazonaws%26logoColor%3Dwhite" style="max-width: 100%;">
-</div>
+## Cloud: ##
+<table align="center">
+     <tr>
+        <td align="center" width="96">
+            <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
+            <br>AWS
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=azure" width="48" height="48" alt="azure" />
+            <br>Azure
+        </td>
+     </tr>  
+</table>
+
+## Frontend: ##
+<table align="center">
+     <tr>
+        <td align="center" width="96">
+            <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+            <br>React
+        </td>
+        <td align="center"  width="96">
+            <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+            <br>HTML5
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+            <br>CSS
+        </td>
+     </tr>  
+</table>
+
+## Tools: ##
+<table align="center">
+     <tr>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="vscode" />
+            <br>Vscode
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=pycharm" width="48" height="48" alt="pycharm" />
+            <br>Pycharm
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="git" />
+            <br>Git
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="github" />
+            <br>Github
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="docker" />
+            <br>Docker
+        </td>
+     </tr>  
+</table>
 
 ##
 
