@@ -2,7 +2,9 @@
 
 - :technologist: Desenvolver back-end (Node.js, Python, Nest.js, TypeScript, PostgreSQL, Mongo, AWS)
 - 🌱 Aprendendo mais sobre Go.
-
+<div>
+  <a href="http://www.linkedin.com/in/enioandrade" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
 
 <div>
    <h3 dir="auto">Sobre:</h3>
@@ -170,10 +172,3 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=enioandrade92&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enioandrade92&layout=compact&langs_count=7&theme=tokyonight"/>
 </div> 
-
-##
- 
-<div>
-  <a href="http://www.linkedin.com/in/enioandrade" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="mailto:enioandrade92@hotmail.com"><img src="https://img.shields.io/badge/-HotEmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
