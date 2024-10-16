@@ -33,7 +33,7 @@
    </p>
 </div>
 
-## Languages ##
+<h3 align="center">Languages</h3>
 <table align="center">
      <tr>
         <td align="center" width="96">
@@ -51,7 +51,7 @@
      </tr>  
 </table>
 
-## Backend ##
+<h3 align="center">Backend</h3>
 <table align="center">
    <tr>
       <td align="center" width="96">
@@ -73,7 +73,7 @@
    </tr>
 </table>
 
-## Database ##
+<h3 align="center">Database</h3>
 <table align="center">
      <tr>
         <td align="center" width="96">
@@ -91,7 +91,7 @@
      </tr>  
 </table>
 
-## Cloud ##
+<h3 align="center">Cloud</h3>
 <table align="center">
      <tr>
         <td align="center" width="96">
@@ -105,7 +105,7 @@
      </tr>  
 </table>
 
-## Frontend: ##
+<h3 align="center">Frontend</h3>
 <table align="center">
      <tr>
         <td align="center" width="96">
@@ -123,7 +123,7 @@
      </tr>  
 </table>
 
-## Tools ##
+<h3 align="center">Tools</h3>
 <table align="center">
      <tr>
         <td align="center" width="96">
