@@ -32,6 +32,7 @@
       Hoje, estou trabalhando com automações do Jira no Banco Inter.
    </p>
 </div>
+<hr>
 
 <h3 align="center">Languages</h3>
 <table align="center">
@@ -50,6 +51,8 @@
         </td>
      </tr>  
 </table>
+
+##
 
 <h3 align="center">Backend</h3>
 <table align="center">
@@ -73,6 +76,8 @@
    </tr>
 </table>
 
+##
+
 <h3 align="center">Database</h3>
 <table align="center">
      <tr>
@@ -91,6 +96,8 @@
      </tr>  
 </table>
 
+##
+
 <h3 align="center">Cloud</h3>
 <table align="center">
      <tr>
@@ -104,6 +111,8 @@
         </td>
      </tr>  
 </table>
+
+##
 
 <h3 align="center">Frontend</h3>
 <table align="center">
@@ -122,6 +131,8 @@
         </td>
      </tr>  
 </table>
+
+##
 
 <h3 align="center">Tools</h3>
 <table align="center">
@@ -152,8 +163,7 @@
         </td>
      </tr>  
 </table>
-
-##
+<hr>
 
 <div align="center">
   <a href="https://github.com/enioandrade92">
