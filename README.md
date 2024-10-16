@@ -33,7 +33,7 @@
    </p>
 </div>
 
-## Languages: ##
+## Languages ##
 <table align="center">
      <tr>
         <td align="center" width="96">
@@ -51,7 +51,7 @@
      </tr>  
 </table>
 
-## Backend: ##
+## Backend ##
 <table align="center">
    <tr>
       <td align="center" width="96">
@@ -73,7 +73,7 @@
    </tr>
 </table>
 
-## Database: ##
+## Database ##
 <table align="center">
      <tr>
         <td align="center" width="96">
@@ -91,7 +91,7 @@
      </tr>  
 </table>
 
-## Cloud: ##
+## Cloud ##
 <table align="center">
      <tr>
         <td align="center" width="96">
@@ -123,7 +123,7 @@
      </tr>  
 </table>
 
-## Tools: ##
+## Tools ##
 <table align="center">
      <tr>
         <td align="center" width="96">
